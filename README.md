@@ -1,0 +1,3 @@
+##Taste of Tech with Sphero Robotics
+
+This repository contains the files needed to run a four week course that covers the basic princinples of imperative coding as it relates to robotics. This course provides an introduction for 3rd - 6th graders who are interested in controlling a simple robot, [a Sphero or Ollie](http://www.sphero.com), through code. For guidance in running the course, links to the required materials, and sample programs please see the Class Outline.
