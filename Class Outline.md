@@ -47,4 +47,4 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Session Guide**
 
-**Stretch**
+**Stretch** 
