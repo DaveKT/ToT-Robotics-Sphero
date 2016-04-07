@@ -39,3 +39,12 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 2.	Discuss the concept of pitch, roll, and yaw. There is a very good explanation if you need to review on the [Smithsonian's How Things Fly](http://howthingsfly.si.edu/flight-dynamics/roll-pitch-and-yaw) site. Suggestion, when reviewing this concept with students hold up the robot and rotate it around the various axes. Do not share the web page since we're not discussing flight, just the axis of rotation.
 3.	Discuss IF, THEN, ELSE statements. There is more information about this statement in the [Degrees](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Examples/Degrees.md) markdown file.
 4.	Have the students code the [Degrees](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Examples/Degrees.PNG) program in the SPRK Lightning Lab.
+
+####Week Two
+**Goals**: Introduce additional sensors and readings, control the Sphero or Ollie using motors.
+
+**Programs**
+
+**Session Guide**
+
+**Stretch**
