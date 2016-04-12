@@ -44,6 +44,8 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 **Goals**: Introduce additional sensors and readings, control the Sphero or Ollie using motors.
 
 **Programs**
+1.	SquareDance
+2.	
 
 **Session Guide**
 
