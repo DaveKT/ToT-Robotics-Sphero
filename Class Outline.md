@@ -50,4 +50,31 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Session Guide**
 
+**Stretch**
+
+####Week Three
+**Goals**: Solve navigational problems that require the student to apply what they have learned about absolute position withing a 360° reference.
+
+**Programs**
+
+1.	Figure Eight
+2.	Cones
+
+**Session Guide**
+
+1.	Conduct a very brief review of the geometry of a circle 0°:Straight Ahead - 90°:Right - 180°:Back - 270°:Left
+2.	Introduce the concept of the arc. 
+
+**Stretch** 
+
+####Week Four
+**Goals**: Using the information presented during this session, program an Ollie to navigate a maze.
+
+**Programs & Materials**
+
+1.	Sample Program (This is not the application the students will write as the maze you choose to layout may be different than the once presented in this session. This is provided as an example only.)
+2.	Maze Construction - Can be anything that will lay out the outline of a maze (e.g. pool noodles, painter's tape, wooden blocks, etc).
+
+**Session Guide**
+
 **Stretch** 
