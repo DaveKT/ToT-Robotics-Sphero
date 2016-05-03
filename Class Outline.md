@@ -63,9 +63,14 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 **Session Guide**
 
 1.	Conduct a very brief review of the geometry of a circle 0°:Straight Ahead - 90°:Right - 180°:Back - 270°:Left
-2.	Introduce the concept of the arc. 
+2.	Introduce the concept of the arc.
+3. Have the students copy and run the Figure Eight program. Note that the spin blocks in this program are set to 360°, full circles.
+4. Have a brief discussion about the number of degrees in a half circle and full circle. (Review ahead of time, but do not share with the students, the Cone program.)
+5.	Set out four or five "Cones" and challenge the students to write a program simliar to the Figure Eight program that will navigate the cones.
 
-**Stretch** 
+**Stretch**
+
+1.	Assuming the students were able to navigate through the cones, challenge the students to extend the program to turn the robot around and come back.
 
 ####Week Four
 **Goals**: Using the information presented during this session, program an Ollie to navigate a maze.
@@ -77,4 +82,3 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Session Guide**
 
-**Stretch** 
