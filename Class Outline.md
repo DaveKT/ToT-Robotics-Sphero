@@ -45,10 +45,15 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Programs**
 
+All example program files are in the [ToT_Robotics_Sphero](https://github.com/DaveKT/ToT_Robotics_Sphero/tree/master/Examples) repository on GitHub.
+
 1.	SquareDance
 2.	ObstacleManagement
 
 **Session Guide**
+
+1. Review the degrees in a circle and how they relate to the Sphero. For reference you may wish to display or hand out the [Ollie Degrees diagram](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Ollie%20Degrees.png). Important note about the reference. Spheros operated in a fixed coordinate system. This means that once aligned each degree in the circle represents a fixed direction from the point of view of the operator or programmer, not Ollie. 0° is always directly away from the operator. 90° is always to the operator's right, etc.
+2. Ask the students what steps are required to make a robot navigate in the shape of a square. The response should inlcude something along the lines of move forward (0°) for some period of time, turn left (280)
 
 **Stretch**
 
@@ -56,6 +61,8 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 **Goals**: Solve navigational problems that require the student to apply what they have learned about absolute position withing a 360° reference.
 
 **Programs**
+
+All example program files are in the [ToT_Robotics_Sphero](https://github.com/DaveKT/ToT_Robotics_Sphero/tree/master/Examples) repository on GitHub.
 
 1.	Figure Eight
 2.	Cones
