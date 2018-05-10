@@ -8,7 +8,7 @@ This program drives the Ollie or Sphero Robot in a square. The robot will shine 
 
 ### Code
 
-![alt text](https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Examples/SquareDance.PNG "Square Dance")
+<img src="https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Examples/SquareDance.PNG" alt="Image of Program Code" style="Height: 750px;"/>
 
 ### Key Lesson
 

@@ -8,7 +8,7 @@ When executed the robot will turn the on-board LED green and start to move forwa
 
 ### Code
 
-<img src="ObstacleManagement.png" alt="Image of Program Code" style="Height: 500px;"/>
+<img src="ObstacleManagement.png" alt="Image of Program Code" style="Height: 750px;"/>
 
 
 ### Events
