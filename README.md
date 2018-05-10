@@ -27,7 +27,7 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 1.	Show the students the Ollie and Sphero Robots. If the class is calm demonstrate how the Ollie and Sphero and move when on the floor using the simple remote software for each.
 2.	Show the students the SPRK Lightning Lab Software. Be sure to highlight how to start a new program, the tabs with the different kind of command blocks, how to add a block to a program, how to edit a block's parameters, and how to delete a block from a program.
-3.	Have the students copy the ColorMe program. Tell them to set the color to red. After they run that program tell them to set the color to whatever color they'd like.
+3.	Have the students copy the [ColorMe](docs/Examples/ColorMe.md) program. Tell them to set the color to red. After they run that program tell them to set the color to whatever color they'd like.
 4.	Discuss the concept of loops. There is more information about loops in the [LightShow markdown file](docs/Examples/LightShow.md).
 5.	Have the students copy the LightShow program and review the lesson listed in the LightShow markdown files once the assignment is completed.
 6.	Review the concepts listed in the [GoingTheDistance markdown file](docs/Examples/GoingTheDistance.md).
