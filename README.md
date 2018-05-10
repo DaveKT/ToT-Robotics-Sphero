@@ -47,8 +47,8 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 All example program files are in the [ToT_Robotics_Sphero](docs/Examples) repository on GitHub.
 
-1.	[SquareDance](docs/examples/SquareDance.md)
-2.	[ObstacleManagement](docs/examples/ObstacleManagement.md)
+1.	[SquareDance](docs/Examples/SquareDance.md)
+2.	[ObstacleManagement](docs/Examples/ObstacleManagement.md)
 
 **Session Guide**
 
