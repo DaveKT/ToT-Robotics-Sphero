@@ -1,17 +1,17 @@
-##Taste of Technology Sphero Robotics Class Outline
+## Taste of Technology Sphero Robotics Class Outline
 
 ToT Sphero Robotics is a four day course taught over the period of 4 weeks to students between the ages of 9 and 12. The primary goal of the course is to introduce technical concepts to students who show an interest and who may not have had prior exposure.
 
-###Course Materials for ToT Robotics
+### Course Materials for ToT Robotics
 
 *	[Sphero or Ollie Robots](http://store.sphero.com)
 * 	[SPRK Lightening Lab Software](http://www.sphero.com/education)
 *	[Compatible iPad, iPhone, or iPod Touch](https://sphero.zendesk.com/hc/en-us/articles/204211154)
 *	Sphero SPRK Lightening Lab Code Included in this Repository
 
-###Course Outline
+### Course Outline
 
-####Week One
+#### Week One
 **Goals**: Introduce the SPRK Software, Introduce Loops, Introduce Motor Control, Introduce IF THEN ELSE
 
 **Programs**
@@ -40,7 +40,7 @@ All example program files are in the [ToT_Robotics_Sphero](docs/Examples) reposi
 3.	Discuss IF, THEN, ELSE statements. There is more information about this statement in the [Degrees](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Examples/Degrees.md) markdown file.
 4.	Have the students code the [Degrees](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Examples/Degrees.PNG) program in the SPRK Lightning Lab.
 
-####Week Two
+#### Week Two
 **Goals**: Introduce additional sensors and readings, control the Sphero or Ollie using motors.
 
 **Programs**
@@ -57,7 +57,7 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Stretch**
 
-####Week Three
+#### Week Three
 **Goals**: Solve navigational problems that require the student to apply what they have learned about absolute position withing a 360° reference.
 
 **Programs**
@@ -79,7 +79,7 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 1.	Assuming the students were able to navigate through the cones, challenge the students to extend the program to turn the robot around and come back.
 
-####Week Four
+#### Week Four
 **Goals**: Using the information presented during this session, program an Ollie to navigate a maze.
 
 **Programs & Materials**
@@ -89,6 +89,6 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Session Guide**
 
-###Alternate Material
+### Alternate Material
 
-####Ollie Sled
+#### Ollie Sled

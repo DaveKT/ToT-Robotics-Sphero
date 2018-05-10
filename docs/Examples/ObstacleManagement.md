@@ -1,17 +1,17 @@
-##Obstacle Management
+## Obstacle Management
 
 This code demonstrates EVENTS and their use in creating  behavior. Older student may appreciate a small introduction to the concept of threads and multi-threaded application development but it is not needed for this exercise.
 
-###Behavior
+### Behavior
 
 When executed the robot will turn the on-board LED green and start to move forward. In the event of a collision the robot will turn red and come to a full stop.
 
 ### Code
 
-<img src="ObstableManagement.PNG" alt="Image of Program Code" style="Height: 250px;"/>
+<img src="ObstableManagement.PNG" alt="Image of Program Code" style="Height: 500px;"/>
 
 
-###Events
+### Events
 
 In the SPRK Lightning Lab IDE there are four predefined events. These are,
 
