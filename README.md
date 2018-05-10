@@ -45,7 +45,7 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Programs**
 
-All example program files are in the [ToT_Robotics_Sphero](docs/Examples) repository on GitHub.
+All example program files are in the [ToT_Robotics_Sphero](https://github.com/DaveKT/ToT-Robotics-Sphero/tree/master/docs/Examples) repository on GitHub.
 
 1.	[SquareDance](docs/Examples/SquareDance.md)
 2.	[ObstacleManagement](docs/Examples/ObstacleManagement.md)
@@ -62,7 +62,7 @@ All example program files are in the [ToT_Robotics_Sphero](docs/Examples) reposi
 
 **Programs**
 
-All example program files are in the [ToT_Robotics_Sphero](docs/Examples) repository on GitHub.
+All example program files are in the [ToT_Robotics_Sphero](https://github.com/DaveKT/ToT-Robotics-Sphero/tree/master/docs/Examples) repository on GitHub.
 
 1.	[Figure Eight](docs/Examples/FigureEight.md)
 2.	[Cones](docs/Examples/Cones.md)
