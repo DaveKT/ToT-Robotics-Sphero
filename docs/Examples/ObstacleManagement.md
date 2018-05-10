@@ -6,6 +6,11 @@ This code demonstrates EVENTS and their use in creating  behavior. Older student
 
 When executed the robot will turn the on-board LED green and start to move forward. In the event of a collision the robot will turn red and come to a full stop.
 
+### Code
+
+![Image of Program Code](ObstableManagement.PNG =250x)
+
+
 ###Events
 
 In the SPRK Lightning Lab IDE there are four predefined events. These are,

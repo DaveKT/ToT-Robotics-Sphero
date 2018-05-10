@@ -6,6 +6,10 @@ This application extends the first lesson by providing opportunities to work wit
 
 This program will cycle through the color wheel creating a little "light show".
 
+### Code
+
+![Image of Program Code](LightShow.PNG =250x)
+
 ###Loops
 
 Loops are control structures that allow a program to repeat itself multiple times. Loops can either run forever, run until some condition is met (e.g. some time has passed or some sensor triggered), or run for a specific number of iterations. In this program, we use the loop forever control structure which means the program will run until the student stops it (or the robot runs out of power).

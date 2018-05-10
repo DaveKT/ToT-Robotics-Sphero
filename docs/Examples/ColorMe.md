@@ -1,6 +1,6 @@
 ## Color Me
 
-This is the first app for the first day. It's primary purpose it to get the students some practice with connecting to the Sphero or Ollie and useing the IDE to drag, order, and update command blocks.
+This is the first app for the first day. It's primary purpose it to get the students some practice with connecting to the Sphero or Ollie and using the IDE to drag, order, and update command blocks.
 
 ### Behavior
 
@@ -8,7 +8,7 @@ The program will set the color of the Robot's LED to whatever color the student 
 
 ### Code
 
-![Image of Program Code](ColorMe.PNG)
+![Image of Program Code](ColorMe.PNG =250x)
 
 ### Key Lesson
 
