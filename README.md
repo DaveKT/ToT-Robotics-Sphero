@@ -47,18 +47,18 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 All example program files are in the [ToT_Robotics_Sphero](docs/Examples) repository on GitHub.
 
-1.	SquareDance
-2.	ObstacleManagement
+1.	[SquareDance](docs/examples/SquareDance.md)
+2.	[ObstacleManagement](docs/examples/ObstacleManagement.md)
 
 **Session Guide**
 
-1. Review the degrees in a circle and how they relate to the Sphero. For reference you may wish to display or hand out the [Ollie Degrees diagram](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Ollie%20Degrees.png). Important note about the reference. Spheros operated in a fixed coordinate system. This means that once aligned each degree in the circle represents a fixed direction from the point of view of the operator or programmer, not Ollie. 0° is always directly away from the operator. 90° is always to the operator's right, etc.
-2. Ask the students what steps are required to make a robot navigate in the shape of a square. The response should inlcude something along the lines of move forward (0°) for some period of time, turn left (280)
+1. Review the degrees in a circle and how they relate to the Sphero. For reference you may wish to display or hand out the [Ollie Degrees diagram](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Ollie%20Degrees.png). Important note about the reference. Spheros operated in a fixed coordinate system. This means that, once aligned, each degree in the circle represents a fixed direction from the point of view of the operator or programmer, not Ollie. 0˚ is always directly away from the operator. 90˚ is always to the operator's right, etc.
+2. Ask the students what steps are required to make a robot navigate in the shape of a square. The response should include something along the lines of move forward (0˚) for some period of time, turn left (270˚)…
 
 **Stretch**
 
 #### Week Three
-**Goals**: Solve navigational problems that require the student to apply what they have learned about absolute position withing a 360° reference.
+**Goals**: Solve navigational problems that require the student to apply what they have learned about absolute position within a 360˚ reference.
 
 **Programs**
 
@@ -69,9 +69,13 @@ All example program files are in the [ToT_Robotics_Sphero](docs/Examples) reposi
 
 **Session Guide**
 
-1.	Conduct a very brief review of the geometry of a circle 0°:Straight Ahead - 90°:Right - 180°:Back - 270°:Left
+1.	Conduct a very brief review of the geometry of a circle,
+    * 0˚ is straight ahead
+    * 90˚ is right
+    * 180˚ is back
+    * 270˚ is left
 2.	Introduce the concept of the arc.
-3. Have the students copy and run the Figure Eight program. Note that the spin blocks in this program are set to 360°, full circles.
+3. Have the students copy and run the Figure Eight program. Note that the spin blocks in this program are set to 360˚, full circles.
 4. Have a brief discussion about the number of degrees in a half circle and full circle. (Review ahead of time, but do not share with the students, the Cone program.)
 5.	Set out four or five "Cones" and challenge the students to write a program similar to the Figure Eight program that will navigate the cones.
 
