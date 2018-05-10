@@ -52,7 +52,7 @@ All example program files are in the [ToT_Robotics_Sphero](docs/Examples) reposi
 
 **Session Guide**
 
-1. Review the degrees in a circle and how they relate to the Sphero. For reference you may wish to display or hand out the [Ollie Degrees diagram](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Ollie%20Degrees.png). Important note about the reference. Spheros operated in a fixed coordinate system. This means that, once aligned, each degree in the circle represents a fixed direction from the point of view of the operator or programmer, not Ollie. 0˚ is always directly away from the operator. 90˚ is always to the operator's right, etc.
+1. Review the degrees in a circle and how they relate to the Sphero. For reference you may wish to display or hand out the [Ollie Degrees diagram](https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Resources/Ollie%20Degrees.png). Important note about the reference. Spheros operated in a fixed coordinate system. This means that, once aligned, each degree in the circle represents a fixed direction from the point of view of the operator or programmer, not Ollie. 0˚ is always directly away from the operator. 90˚ is always to the operator's right, etc.
 2. Ask the students what steps are required to make a robot navigate in the shape of a square. The response should include something along the lines of move forward (0˚) for some period of time, turn left (270˚)…
 
 **Stretch**
