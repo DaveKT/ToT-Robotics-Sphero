@@ -16,18 +16,18 @@ ToT Sphero Robotics is a four day course taught over the period of 4 weeks to st
 
 **Programs**
 
-All example program files are in the [ToT_Robotics_Sphero](https://github.com/DaveKT/ToT_Robotics_Sphero/tree/master/Examples) repository on GitHub.
+All example program files are in the [ToT_Robotics_Sphero](docs/Examples) repository on GitHub.
 
-1.	[ColorMe](docs/Examples/ColorMe.PNG)
-2.	[LightShow](docs/Examples/LightShow.PNG)
-3.	[GoingTheDistance](docs/Examples/GoingTheDistance.PNG)
-4.	[Degrees](docs/Examples/Degrees.PNG)
+1.	[ColorMe](docs/Examples/ColorMe.md)
+2.	[LightShow](docs/Examples/LightShow.md)
+3.	[GoingTheDistance](docs/Examples/GoingTheDistance.md)
+4.	[Degrees](docs/Examples/Degrees.md)
 
 **Session Guide**
 
 1.	Show the students the Ollie and Sphero Robots. If the class is calm demonstrate how the Ollie and Sphero and move when on the floor using the simple remote software for each.
 2.	Show the students the SPRK Lightning Lab Software. Be sure to highlight how to start a new program, the tabs with the different kind of command blocks, how to add a block to a program, how to edit a block's parameters, and how to delete a block from a program.
-3.	Have the students copy the ColorMe program. Tell them to set the color to red. After they run that program tell them to set the color to whatever color they'd like. 
+3.	Have the students copy the ColorMe program. Tell them to set the color to red. After they run that program tell them to set the color to whatever color they'd like.
 4.	Discuss the concept of loops. There is more information about loops in the [LightShow markdown file](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Examples/LightShow.md).
 5.	Have the students copy the LightShow program and review the lesson listed in the LightShow markdown files once the assignment is completed.
 6.	Review the concepts listed in the [GoingTheDistance markdown file](https://github.com/DaveKT/ToT_Robotics_Sphero/blob/master/Examples/GoingTheDistance.md).
@@ -73,7 +73,7 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 2.	Introduce the concept of the arc.
 3. Have the students copy and run the Figure Eight program. Note that the spin blocks in this program are set to 360°, full circles.
 4. Have a brief discussion about the number of degrees in a half circle and full circle. (Review ahead of time, but do not share with the students, the Cone program.)
-5.	Set out four or five "Cones" and challenge the students to write a program simliar to the Figure Eight program that will navigate the cones.
+5.	Set out four or five "Cones" and challenge the students to write a program similar to the Figure Eight program that will navigate the cones.
 
 **Stretch**
 
@@ -89,6 +89,6 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Session Guide**
 
-###Alternate Material
+### Alternate Material
 
-####Ollie Sled
+#### Ollie Sled
