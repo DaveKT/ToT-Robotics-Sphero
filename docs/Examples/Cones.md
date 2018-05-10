@@ -6,5 +6,5 @@ This application is the first of the build your own solution type. It requires t
 <img src="https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Examples/Cones.png" alt="Image of Program Code" style="Height: 750px;"/>
 
 
-## Behavior
+### Behavior
 The provided application demonstrates a *partial* solution and highlights the use of Spin blocks to "slalom" though a course made of cones. Pro Tip: use plastic drinking cups for the cones if you don't have any of the field type on hand.

@@ -6,5 +6,5 @@ This applications extends the students' knowledge of circle geometry. The figure
 <img src="https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Examples/FigueEight.png" alt="Image of Program Code" style="Height: 750px;"/>
 
 
-## Behavior
+### Behavior
 The Ollie or Sphero will first trace out a circle clockwise, return to it's origin, and then trace out a circle following a counter clockwise path resulting in a figure eight.
