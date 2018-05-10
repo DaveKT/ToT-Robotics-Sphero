@@ -3,7 +3,7 @@ This applications extends the students' knowledge of circle geometry. The figure
 
 ### Code
 
-<img src="https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Examples/FigueEight.png" alt="Image of Program Code" style="Height: 750px;"/>
+<img src="https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Examples/FigureEight.png" alt="Image of Program Code" style="Height: 750px;"/>
 
 
 ### Behavior
