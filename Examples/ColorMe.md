@@ -6,6 +6,10 @@ This is the first app for the first day. It's primary purpose it to get the stud
 
 The program will set the color of the Robot's LED to whatever color the student chooses.
 
+### Code
+
+![Image of Program Code](ColorMe.PNG)
+
 ### Key Lesson
 
 Make sure that everyone knows how to connect to the robot, write the program, and change the color of the LED.
