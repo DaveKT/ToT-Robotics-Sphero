@@ -18,10 +18,10 @@ ToT Sphero Robotics is a four day course taught over the period of 4 weeks to st
 
 All example program files are in the [ToT_Robotics_Sphero](https://github.com/DaveKT/ToT_Robotics_Sphero/tree/master/Examples) repository on GitHub.
 
-1.	ColorMe
-2.	LightShow
-3.	GoingTheDistance
-4.	Degrees
+1.	[ColorMe](docs/Examples/ColorMe.PNG)
+2.	[LightShow](docs/Examples/LightShow.PNG)
+3.	[GoingTheDistance](docs/Examples/GoingTheDistance.PNG)
+4.	[Degrees](docs/Examples/Degrees.PNG)
 
 **Session Guide**
 
