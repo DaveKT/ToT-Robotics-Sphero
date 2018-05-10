@@ -3,7 +3,7 @@ This application is the first of the build your own solution type. It requires t
 
 ### Code
 
-![Image of Program Code](Cones.PNG =250x)
+<img src="Cones.PNG" alt="Image of Program Code" style="Height: 250px;"/>
 
 
 ## Behavior

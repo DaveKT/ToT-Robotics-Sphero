@@ -8,7 +8,7 @@ When executed the robot will turn the on-board LED green and start to move forwa
 
 ### Code
 
-![Image of Program Code](ObstableManagement.PNG =250x)
+<img src="ObstableManagement.PNG" alt="Image of Program Code" style="Height: 250px;"/>
 
 
 ###Events

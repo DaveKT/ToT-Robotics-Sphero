@@ -8,7 +8,7 @@ This program will cycle through the color wheel creating a little "light show".
 
 ### Code
 
-![Image of Program Code](LightShow.PNG =250x)
+<img src="LightShow.PNG" alt="Image of Program Code" style="Height: 250px;"/>
 
 ###Loops
 

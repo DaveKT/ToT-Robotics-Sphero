@@ -8,7 +8,7 @@ When executed the robot will drive forward for a predetermined time and speed.
 
 ### Code
 
-![Image of Program Code](GoingTheDistance.PNG =250x)
+<img src="GoingTheDistance.PNG" alt="Image of Program Code" style="Height: 250px;"/>
 
 ###The Game
 
