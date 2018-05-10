@@ -3,7 +3,7 @@ This application is the first of the build your own solution type. It requires t
 
 ### Code
 
-<img src="Cones.PNG" alt="Image of Program Code" style="Height: 500px;"/>
+<img src="https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Examples/Cones.png" alt="Image of Program Code" style="Height: 750px;"/>
 
 
 ## Behavior

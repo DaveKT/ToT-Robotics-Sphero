@@ -64,8 +64,8 @@ All example program files are in the [ToT_Robotics_Sphero](docs/Examples) reposi
 
 All example program files are in the [ToT_Robotics_Sphero](docs/Examples) repository on GitHub.
 
-1.	Figure Eight
-2.	Cones
+1.	[Figure Eight](docs/Examples/Cones.md)
+2.	[Cones](docs/Examples/FigureEight.md)
 
 **Session Guide**
 
