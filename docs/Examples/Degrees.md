@@ -23,7 +23,7 @@ In the pseudo code above the variable x is set to 0. The IF checks to see if x i
 
 ### Code
 
-<img src="Degrees.PNG" alt="Image of Program Code" style="Height: 750px;"/>
+<img src="Degrees.PNG" alt="Image of Program Code" style="Height: 600px;"/>
 
 
 ### Orientation
