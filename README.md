@@ -9,7 +9,7 @@ ToT Sphero Robotics is a four day course taught over the period of 4 weeks to st
 *	[Compatible iPad, iPhone, or iPod Touch](https://sphero.zendesk.com/hc/en-us/articles/204211154)
 *	Sphero SPRK Lightening Lab Code Included in this Repository
 
-##Course Outline
+## Course Outline
 
 ### Week One
 **Goals**: Introduce the SPRK Software, Introduce Loops, Introduce Motor Control, Introduce IF THEN ELSE
