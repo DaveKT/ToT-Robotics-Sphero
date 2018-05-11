@@ -8,7 +8,7 @@ The program will set the color of the Robot's LED to whatever color the student 
 
 ### Code
 
-<img src="ColorMe.PNG" alt="Image of Program Code" style="Height: 500px;"/>
+<img src="ColorMe.PNG" alt="Image of Program Code" style="Height: 750;"/>
 
 ### Key Lesson
 
