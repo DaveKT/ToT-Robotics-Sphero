@@ -5,7 +5,7 @@ ToT Sphero Robotics is a four day course taught over the period of 4 weeks to st
 ### Course Materials for ToT Robotics
 
 *	[Sphero or Ollie Robots](http://store.sphero.com)
-* 	[SPRK Lightening Lab Software](http://www.sphero.com/education)
+* [SPRK Lightening Lab Software](http://www.sphero.com/education)
 *	[Compatible iPad, iPhone, or iPod Touch](https://sphero.zendesk.com/hc/en-us/articles/204211154)
 *	Sphero SPRK Lightening Lab Code Included in this Repository
 
@@ -96,3 +96,6 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 ### Alternate Material
 
 #### Ollie Sled
+The Ollie sled can be attached directly to Ollie to enable the robot to pull light loads. The instructor may choose to use this attachment to run experiments (e.g. how much weight can Ollie pull with different power settings, how is traction affected by a trailing load, etc) or it can be used as an incentive to complete other coursework (e.g. the instructor could hold "chariot" races.)
+
+The sled attaches to Ollie via large rubber band. The sled is built with LEGO technic parts using these [instructions](docs/Resources/OllieSled.pdf). A list of parts for the sled is [here](docs/Resources/OllieSled.xlsx).
