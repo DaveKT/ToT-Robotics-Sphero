@@ -27,10 +27,10 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 1.	Show the students the Ollie and Sphero Robots. If the class is calm demonstrate how the Ollie and Sphero and move when on the floor using the simple remote software for each.
 2.	Show the students the SPRK Lightning Lab Software. Be sure to highlight how to start a new program, the tabs with the different kind of command blocks, how to add a block to a program, how to edit a block's parameters, and how to delete a block from a program.
-3.	Have the students copy the [ColorMe](docs/Examples/ColorMe.md) program. Tell them to set the color to red. After they run that program tell them to set the color to whatever color they'd like.
-4.	Discuss the concept of loops. There is more information about loops in the [LightShow markdown file](docs/Examples/LightShow.md).
+3.	Have the students copy the [Color Me](docs/Examples/ColorMe.md) program. Tell them to set the color to red. After they run that program tell them to set the color to whatever color they'd like.
+4.	Discuss the concept of loops. There is more information about loops in the [Light Show exercise](docs/Examples/LightShow.md).
 5.	Have the students copy the LightShow program and review the lesson listed in the LightShow markdown files once the assignment is completed.
-6.	Review the concepts listed in the [GoingTheDistance markdown file](docs/Examples/GoingTheDistance.md).
+6.	Review the concepts listed in the [Going The Distance exercise](docs/Examples/GoingTheDistance.md).
 7.	Ask the students to play the Going the Distance game outline in the GoingTheDistance markdown file.
 
 **Stretch**
@@ -54,8 +54,13 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 1. Review the degrees in a circle and how they relate to the Sphero. For reference you may wish to display or hand out the [Ollie Degrees diagram](https://github.com/DaveKT/ToT-Robotics-Sphero/raw/master/docs/Resources/Ollie%20Degrees.png). Important note about the reference. Spheros operated in a fixed coordinate system. This means that, once aligned, each degree in the circle represents a fixed direction from the point of view of the operator or programmer, not Ollie. 0˚ is always directly away from the operator. 90˚ is always to the operator's right, etc.
 2. Ask the students what steps are required to make a robot navigate in the shape of a square. The response should include something along the lines of move forward (0˚) for some period of time, turn left (270˚)…
+3. Once the students have required the steps required to trace out a square, have them duplicate the code in the [Square Dance Exercise](docs/Examples/SquareDance.md).
+4. Explain that sometime our robotics can run into the unexpected. As a result, programmers need a way to "handle" any "exceptions" to normal operating. Have the students copy the code in the [Obstacle Management exercise](docs/Examples/ObstacleManagement.md). Point out that the "On Collision" part of the program will only run if the robot runs into something.
 
 **Stretch**
+
+1. Have the students describe the steps needed to trace out a triangle. Have them modify the Square Dance program to trace a triangle and run the program. If it didn't work the first time, review the code and try again.
+2. Draw a more complex shape. Try a hexagon or a circle. Which is easier to program? Why?
 
 ### Week Three
 **Goals**: Solve navigational problems that require the student to apply what they have learned about absolute position within a 360˚ reference.
@@ -88,10 +93,18 @@ All example program files are in the [ToT_Robotics_Sphero](https://github.com/Da
 
 **Programs & Materials**
 
-1.	Sample Program (This is not the application the students will write as the maze you choose to layout may be different than the once presented in this session. This is provided as an example only.)
-2.	Maze Construction - Can be anything that will lay out the outline of a maze (e.g. pool noodles, painter's tape, wooden blocks, etc).
+1.	Course Construction Materials - Can be anything that will lay out the outline of a "race course" (e.g. pool noodles, painter's tape, wooden blocks, etc).
 
 **Session Guide**
+
+1.  Prior to class set up a course sized for the Ollie or Sphero robot. The course should have at least four total turns that required changes in direction. For simpler mazes keep the number of turns low and make sure all turns are 90˚ or 270˚. For more complex mazes you can set up turns that are any number of degrees (not just simple left or right turns). The course does not need to start and end in the same spot.
+2.  Once class begins, have the students break out into small teams (2 or 3 is ideal) and write a program that will steer their robot through the course. For teams that finish first, have them try to turn around at the end and come back.
+
+**Stretch**
+
+1. Talk to the students about any trouble they had running the course. Do they think that their programs could handle unexpected events?
+2. Select the two best performing robots and have them run the course at the same time (both start on the start line and begin navigating the maze simultaneously). What happened? What things could be changed to make the robots run more smoothly?
+
 
 ### Alternate Material
 
