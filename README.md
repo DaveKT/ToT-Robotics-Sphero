@@ -1,6 +1,6 @@
 ## Taste of Technology Sphero Robotics Class Outline
 
-ToT Sphero Robotics is a four day course taught over the period of 4 weeks to students between the ages of 9 and 12. The primary goal of the course is to introduce technical concepts to students who show an interest and who may not have had prior exposure.
+ToT Sphero Robotics is a four session course taught to students between the ages of 9 and 12. The primary goal of the course is to introduce technical concepts to students who show an interest and who may not have had prior exposure.
 
 ### Course Materials for ToT Robotics
 
